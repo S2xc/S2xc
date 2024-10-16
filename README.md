@@ -16,9 +16,9 @@
 ## 📊 Мои дашборды на Tableau
 Вот некоторые из моих проектов:
 - [Karpov Dashboard Practice](https://public.tableau.com/app/profile/ilya.gerasimov7896/vizzes)
-- [Анализ вакансий hh.ru для аналитиков данных](https://public.tableau.com/app/profile/ilya.gerasimov7896/vizzes)
-- [Karpov.BnB – мониторинг и анализ ключевых метрик](https://public.tableau.com/app/profile/ilya.gerasimov7896/vizzes)
-- [Анализ продаж и эффективности услуг S7](https://public.tableau.com/app/profile/ilya.gerasimov7896/vizzes)
+- [Анализ вакансий hh.ru для аналитиков данных](https://public.tableau.com/app/profile/ilya.gerasimov7896/viz/hh_ru_17185656736480/hh_ru)
+- [Karpov.BnB – мониторинг и анализ ключевых метрик](https://public.tableau.com/app/profile/ilya.gerasimov7896/viz/Karpov_BnBmonitoringandanalysisofkeymetrics/Karpov_BnBmonitoringandanalysisofkeymetrics)
+- [Анализ продаж и эффективности услуг S7](https://public.tableau.com/app/profile/ilya.gerasimov7896/viz/Book1_17288275513050/Dashboard1)
 
 ## 🏆 Мои достижения
 - Участие во Всероссийском Хакатоне "Цифровой Прорыв".
