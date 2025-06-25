@@ -27,6 +27,7 @@
 
 ## 🚀 Мои проекты на Kaggle и GitHub
 - [GitGenie](https://github.com/S2xc/GitGenie)
+- [Tableau vibe](https://github.com/S2xc/Tableau-vibe)
 - [Анализ показателей мобильного приложения](https://github.com/S2xc/game_analytics)
 - [Yandex Music TOP 100 Songs](https://github.com/S2xc/Yandex-Music)
 - [Анализ рынка автомобилей в Австралии](https://github.com/S2xc/Australia-Car-Market-Data)
